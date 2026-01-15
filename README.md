@@ -31,7 +31,7 @@ Designing reliable embedded firmware and intelligent sensing systems.
 ## Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/rahuljshimpi
 - 📧 Email: rahulshimpi@zohomail.in
-- 🌐 Portfolio: www.rahulshimpi.netlify.app
+- 🌐 Portfolio: https://rahulshimpi.netlify.app/
 
 
 <!--
